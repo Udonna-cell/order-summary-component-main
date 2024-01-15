@@ -1,0 +1,13 @@
+# build.sh
+# clean.sh
+design
+dist/css/
+dist/index.html
+index.html
+node_modules
+package-lock.json
+# package.json
+README-template.md
+README.md
+# src
+style-guide.md
