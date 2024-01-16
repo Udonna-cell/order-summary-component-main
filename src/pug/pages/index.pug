@@ -3,7 +3,7 @@ extends ../layout.pug
 block header
   header
     figure 
-      include ../../../dist/images/illustration-hero.svg
+      img(src="./images/illustration-hero.svg", alt="alt")
     article
       h1 Order Summary
       p You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!
@@ -11,7 +11,7 @@ block header
         div
           include ../../../dist/images/icon-music.svg
         div
-          h2 Annual Plan
+          p Annual Plan
           p $59.99/year
         div
           a(href="#") Change

@@ -8,3 +8,16 @@ $Desaturated-blue: hsl(224, 23%, 55%);
 $Dark-blue: hsl(223, 47%, 23%);
 
 $radius: 1rem;
+
+@font-face {
+    font-family: "RedHatDisplay-Medium";
+    src: url("../fonts/Red_Hat_Display/static/RedHatDisplay-Medium.ttf");
+}
+@font-face {
+    font-family: "RedHatDisplay-Black";
+    src: url("../fonts/Red_Hat_Display/static/RedHatDisplay-Black.ttf");
+}
+@font-face {
+    font-family: "RedHatDisplay-Bold";
+    src: url("../fonts/Red_Hat_Display/static/RedHatDisplay-Bold.ttf");
+}
